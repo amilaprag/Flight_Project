@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Flight_Project.JsonOut
+{
+    public class JsonOutRepository
+    {
+    }
+}
